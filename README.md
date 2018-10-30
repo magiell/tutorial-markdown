@@ -13,8 +13,7 @@ Overview
 
 -	#### Basic
     - **제목 쓰기**
-    	<pre>
-      <code>
+      <pre><code>
       # 제목1
       ## 제목2
       ### 제목3
