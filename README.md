@@ -81,10 +81,10 @@ Overview
       `[구글](http://www.google.com)` -> [구글](http://www.google.com)
       `http://www.google.com` -> http://www.google.com
     - **참조링크**
-      `[참조1] [참조1]:http://google.com` -> 
+      `[참조1] [참조1]:http://google.com` ->  
       [ref]
       [ref]:http://www.google.com
     - **이미지링크**
-      `![이미지](링크주소)` -> 
+      `![이미지](링크주소)` ->  
       ![이미지](https://pbs.twimg.com/profile_images/994409572117790720/NF8KMjNX_400x400.jpg)
   - #### 응용법
